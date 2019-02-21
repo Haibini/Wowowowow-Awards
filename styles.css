@@ -1,0 +1,75 @@
+h1 {
+    font-size:40pt;
+    }
+h2{
+    font-size:21pt;
+    }
+table{
+    table-layout: fixed;
+    width: 650px;
+    text-align:center;
+    margin-left:auto; 
+    margin-right:auto;
+    }
+body{
+    background-color:grey;
+    background:url("https://www.setaswall.com/wp-content/uploads/2017/10/Minimalism-Triangle-Art-Hd-Wallpaper-1080x1920.jpg");
+    border:25px double;
+    border-color:#B8C4D2;
+    padding:15px;
+    }
+img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+    }
+.font1{
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    color:#B8C4D2;
+    }
+.font{
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    color:#B8C4D2;
+    }
+.table1{
+    background:url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8e9bb435471147.56f8f334dab15.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 300%;
+    background-position: center;
+    width:auto;
+    }
+.radius{
+    border-radius:10%;
+    }
+.background{
+    background:url("https://img00.deviantart.net/9980/i/2002/51/2/c/samurai_stick_fight.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width:auto;
+    }
+.background2{
+    background:url("http://i3.kym-cdn.com/photos/images/original/001/114/600/876.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width:auto;
+    }
+.background3{
+    background:url("https://media.giphy.com/media/o9nJJpNePCak0/200.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width:auto;
+    }
+.background4{
+    background:url("https://thumbs.gfycat.com/ThreadbareZanyCow-max-1mb.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width:auto;
+    }
